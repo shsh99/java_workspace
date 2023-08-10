@@ -1,6 +1,6 @@
 package ch07_1;
 
-public abstract class NoteBook extends Computer{
+public abstract class NoteBook extends Computer {
 
 	@Override
 	public void typing() {
