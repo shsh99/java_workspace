@@ -6,4 +6,9 @@ public abstract class NoteBook extends Computer {
 	public void typing() {
 		System.out.println("키패드로 글자를 칩니다.");
 	}
+
+	public void display() {
+		// TODO Auto-generated method stub
+		
+	}
 }
